@@ -1,0 +1,124 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+.App{
+  width: 100vw;
+  height: 100vh;
+  background-color: azure;
+}
+.container{
+  display: flex;
+}
+
+.main{
+  width: 100%;
+  padding: 20px;
+}
+
+.sidebar{
+  background: #333;
+  color: #fff;
+  height: 100vh;
+  width: 200px;
+  transition: all 0.5s;
+}
+
+.top_section{
+  display: flex;
+  align-items: center;
+  padding: 20px 15px;
+}
+
+.logo{
+  font-size: 30px;
+}
+
+.logo_img {
+  width: "38px";
+  height: "38px";
+}
+
+.bars{
+  font-size: 25px;
+  display: flex;
+  margin-left: 50px;
+}
+
+.link{
+  display: flex;
+  color: #fff;
+  padding: 10px 15px;
+  gap: 15px;
+  transition: all 0.5s;
+}
+
+.link:hover{
+  background: lightskyblue;
+  color: #000;
+  transition: all 0.5s;
+}
+
+.active{
+  background: lightskyblue;
+  color: #000;
+}
+
+.icon .link_text{
+  font-size: 30px;
+}
+
+
+/*questionnaire*/
+.questionnaire-container {
+  display: block;
+  max-width: 100%!important;
+}
+
+
+
+/*Create*/
+.questions-list{
+  display: block;
+}
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
