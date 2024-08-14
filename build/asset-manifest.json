@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-questionnaire-app/static/css/main.ff4e2326.css",
+    "main.js": "/react-questionnaire-app/static/js/main.cd941a68.js",
+    "static/media/brand-icons.svg": "/react-questionnaire-app/static/media/brand-icons.6729d29753e000c17489.svg",
+    "static/media/icons.svg": "/react-questionnaire-app/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/logo1.png": "/react-questionnaire-app/static/media/logo1.058615372ec99a91859e.png",
+    "static/media/outline-icons.svg": "/react-questionnaire-app/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
+    "static/media/icons.eot": "/react-questionnaire-app/static/media/icons.a01e3f2d6c83dc3aee17.eot",
+    "static/media/icons.ttf": "/react-questionnaire-app/static/media/icons.c656b8caa454ed19b9a2.ttf",
+    "static/media/brand-icons.eot": "/react-questionnaire-app/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
+    "static/media/brand-icons.ttf": "/react-questionnaire-app/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
+    "static/media/brand-icons.woff": "/react-questionnaire-app/static/media/brand-icons.cac87dc00c87a5d74711.woff",
+    "static/media/brand-icons.woff2": "/react-questionnaire-app/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
+    "static/media/icons.woff": "/react-questionnaire-app/static/media/icons.425399f81e4ce7cbd967.woff",
+    "static/media/icons.woff2": "/react-questionnaire-app/static/media/icons.38c6d8bab26db77d8c80.woff2",
+    "static/media/outline-icons.eot": "/react-questionnaire-app/static/media/outline-icons.752905fa5edf21fc52a1.eot",
+    "static/media/outline-icons.ttf": "/react-questionnaire-app/static/media/outline-icons.5367103510b27b784827.ttf",
+    "static/media/flags.png": "/react-questionnaire-app/static/media/flags.99f63ae7a743f21ab308.png",
+    "static/media/outline-icons.woff": "/react-questionnaire-app/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
+    "static/media/outline-icons.woff2": "/react-questionnaire-app/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
+    "index.html": "/react-questionnaire-app/index.html",
+    "main.ff4e2326.css.map": "/react-questionnaire-app/static/css/main.ff4e2326.css.map",
+    "main.cd941a68.js.map": "/react-questionnaire-app/static/js/main.cd941a68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff4e2326.css",
+    "static/js/main.cd941a68.js"
+  ]
+}
